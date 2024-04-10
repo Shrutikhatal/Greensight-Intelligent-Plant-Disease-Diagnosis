@@ -1,0 +1,12 @@
+click
+Flask
+gunicorn
+h5py
+Jinja2
+MarkupSafe
+numpy
+Pillow
+tensorflow
+tensorflow-estimator
+tensorflow-hub
+Werkzeug
